@@ -13,5 +13,8 @@ p {
 	}
 .evidenziato{ background-color:orange;
 	          color: black;
-}	
+}
+img {
+	align:center;
+}
 </style>
