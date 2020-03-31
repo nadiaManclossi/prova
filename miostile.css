@@ -9,9 +9,13 @@ p {
 }
  .grande      { 
 	font-size:32px; 
-	font-weight: bolder 
+	font-weight: bolder;
 	}
 .evidenziato{ background-color:orange;
 	          color: black;
+}
+.didascalia{ 
+	font-size:8pt; 
+	font-style: italic;
 }
 </style>
